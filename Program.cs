@@ -10,7 +10,7 @@ iphone.InstalarAplicativo("Instagram");
 Console.WriteLine("\n");
 
 Console.WriteLine("Smartphone Nokia: ");
-Smartphone nokia = new Nokia("8008-8008", "Iphone 15", "2222542", 64);
+Smartphone nokia = new Nokia("8008-8008", "C2", "2222542", 64);
 nokia.Ligar();
 nokia.ReceberLigacao();
 nokia.InstalarAplicativo("Telegram");
